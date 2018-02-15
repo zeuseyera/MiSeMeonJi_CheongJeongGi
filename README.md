@@ -49,21 +49,13 @@
 
 | 종류 | 상면사진 | 측면사진 |  
 | ------------ | :------------: | :------------: |  
-| 필터 가 | ![필터 가](images/필터-가-상.png) | ![필터 가](images/필터-가-측.png) |  
-| 필터 나 | ![필터 나](images/필터-나-상.png) | ![필터 나](images/필터-나-측.png) |  
-| 필터 다 | ![필터 다](images/필터-다-상.png) | ![필터 다](images/필터-다-측.png) |
-
-
-| 종류 | 상면사진 | 측면사진 |  
-| ------------ | :------------: | :------------: |  
 | 필터 가 | <p align="center"><img width="50%" src="images/필터-가-상.png" /></p> | <p align="center"><img width="50%" src="images/필터-가-측.png" /></p> |  
 | 필터 나 | <p align="center"><img width="50%" src="images/필터-나-상.png" /></p> | <p align="center"><img width="50%" src="images/필터-나-측.png" /></p> |  
 | 필터 다 | <p align="center"><img width="50%" src="images/필터-다-상.png" /></p> | <p align="center"><img width="50%" src="images/필터-다-측.png" /></p> |  
 
-
 ---
 
-## 1. 차량용 미세먼지 정화기 만들기
+## 1. 차량용 미세먼지 공기청정기 만들기
 
 ### 준비물
 
@@ -72,9 +64,9 @@
 - 팬
 - 전선
 
-## 2. 자동차에 정화기 설치
+## 2. 자동차 엔진룸에 공기청정기 설치
 
-## 3. 정화기 효과 확인
+## 3. 공기청정기 효과 확인
 
 ----
 
